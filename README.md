@@ -19,3 +19,7 @@ Tengo pendiente subir analisis de la data obtenida.
 3.-Realizar analisis de la DDBB (Pendiente)
 
 4.-Escribir Conclusiones (Pendiente)
+
+
+
+#Creditos al canal en Youtube de StrataScratch
