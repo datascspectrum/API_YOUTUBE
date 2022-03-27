@@ -22,4 +22,5 @@ Tengo pendiente subir analisis de la data obtenida.
 
 
 
-#Creditos al canal en Youtube de StrataScratch
+#Creditos al canal en Youtube de StrataScratch gran parte del codigo es guiado por uno de sus videos.
+
